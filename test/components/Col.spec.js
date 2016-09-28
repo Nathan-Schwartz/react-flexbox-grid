@@ -1,7 +1,7 @@
 import expect from 'expect';
 import React from 'react';
 import TestUtils from 'react-addons-test-utils';
-import Col from '../../src/components/Col';
+import Col from '../../lib/components/Col';
 import style from 'flexboxgrid';
 
 const renderer = TestUtils.createRenderer();
